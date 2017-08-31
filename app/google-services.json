@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "207808371474",
+    "firebase_url": "https://timberzxingleakcanaryurbanairs.firebaseio.com",
+    "project_id": "timberzxingleakcanaryurbanairs",
+    "storage_bucket": "timberzxingleakcanaryurbanairs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207808371474:android:e7b2933d8907e07f",
+        "android_client_info": {
+          "package_name": "com.blovvme.timberzxingleakcanaryurbanairship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207808371474-ihra0v2k214sgr8mhplbr8haiu8ahltq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blovvme.timberzxingleakcanaryurbanairship",
+            "certificate_hash": "070d5c6b9dd5d6596d924022acbc821874dd64ae"
+          }
+        },
+        {
+          "client_id": "207808371474-5468j8508nn8uvpr48a1mfugeo7jeq7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0f4-DfnPNzI90MumrlR4_lxLglbkSqO0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207808371474-5468j8508nn8uvpr48a1mfugeo7jeq7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
